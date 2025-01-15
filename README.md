@@ -12,7 +12,7 @@ rare in memory events; heterogeneous data sources as the DRAMs in the field come
 architecture platforms; distribution shifts due to hardware aging; and latent factors due to the dynamic access
 mechanism.
 
-We cure a real-world memory error dataset that contains both micro and bit information and present a two-stage challenge
+We cured a real-world memory error dataset that contains both micro and bit information and presented a two-stage challenge
 for more efficient and generalized event prediction solutions. We believe the competition will provide a breeding ground
 to foster discussions and further progress on several important research topics towards real-world ML applications.
 
